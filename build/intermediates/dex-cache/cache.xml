@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_16c3373447f2aae1be991f505f8fa8944e229590/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0acde5e4c623dd9aa7363530be6fdc08db2a085f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_e643c9b6b187256387435baf03ce5bc835d406fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7e33e8548eb07f2e1590b5c31d50d6cad091eda6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9b5413601e410c5cb098840154d80eaba458cb36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_78f63046dbd3a92fbd473c29fba7deb0c8468d44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_db4e06ee886dd3176b9b3e0de08a58081541c021/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="615d6cb61253654cf7c84f504b0b6ac00a09aef2">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_906e87ba297cab6ef0c6f7975ba8144c64ff37ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_331d04bc62447ea92f6e283cea6c202a70939141/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b55505c44db2d39f07700b7374990795777b3cf">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9fbff32cf8866c523234a63f325eef7f0bcb30c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_ac9b65d705641cea8f68c7ff0ccca17018d6f7d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e1decf747357a2acf1011f5cb77b64f6b0fe432e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_bb4f1d4f826069ef3c9ed262d8800605c8731518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dbbe8380587aed9e2edf86fd311387cd2624c982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_d522a0c5a0240bbae56abaffb2c9eca63794e829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9024f2edca4a382a1e0fa312074a120d6eebd9a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ygd/AndroidStudioProjects/RingPhone/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_70517886534654ba5864624a4fcceaa400827d67/classes.dex" />
+    </item>
+
+</items>

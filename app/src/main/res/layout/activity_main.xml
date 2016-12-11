@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.pyzed.ringphone.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.phonenumbertest.MainActivity"
+        android:weightSum="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:text="@string/service_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/service_status" />
+
+        <ToggleButton
+            android:text="ToggleButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/toggleButton"
+            android:textOff="@string/service_off"
+            android:textOn="@string/service_on" />
+
+        <CheckBox
+            android:text="@string/text_autostart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/autoCheckBox" />
+
+        <TextView
+            android:text="@string/text_volume"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text_volume" />
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/volumeSeekBar" />
+
+
+        <TextView
+            android:text="@string/text_radiogroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textRadioGroup"
+            android:layout_marginBottom="10dp"/>
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/whoRidioGroup"
+            android:checkedButton="@+id/radioEveryone">
+
+            <RadioButton
+                android:text="Everyone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioEveryone" />
+
+            <RadioButton
+                android:text="The Following"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioFollow" />
+        </RadioGroup>
+
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="0dp"
+            android:layout_weight="1"
+            android:id="@+id/list_phone_number" />
+
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:layout_weight="1"
+                android:hint="@string/hint_for_add_number"
+                android:id="@+id/edit_add_number" />
+            <Button
+                android:text="Add"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button_add" />
+
+
+        </LinearLayout>
+
+        <!--Button
+            android:id="@+id/btn_incoming_call"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="获取来电号码"/>
+
+        <Button
+            android:id="@+id/btn_incoming_call_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="不获取来电号码"/>
+
+        <Button
+            android:id="@+id/btn_outgoing_call"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="获取去电号码"/>
+
+        <Button
+            android:id="@+id/btn_outgoing_call_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="不获取去电号码"/ -->
+    </LinearLayout>
+
+</RelativeLayout>

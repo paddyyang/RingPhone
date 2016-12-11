@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ring Phone找手机</string>
+    <string name="service_on">Ring Phone服务已开启</string>
+    <string name="service_off">Ring Phone服务已关闭</string>
+    <string name="service_status">Ring Phone服务当前状态，点击可改变：</string>
+    <string name="text_autostart">允许开机自动启动服务</string>
+    <string name="text_volume">Ring Phone音量设置:</string>
+    <string name="text_radiogroup">设置来电号码范围:</string>
+    <string name="hint_for_add_number">这里输入手机号码</string>
+</resources>
